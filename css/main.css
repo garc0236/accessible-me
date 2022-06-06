@@ -12,6 +12,7 @@ h4,
 h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  
 }
 
 .container {
@@ -68,4 +69,8 @@ form button {
 
 .site-footer {
   padding: 2rem 0;
+}
+
+a:focus{
+  outline: 4px solid black;
 }
